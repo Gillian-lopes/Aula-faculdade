@@ -1,0 +1,24 @@
+html {
+    width: 1366px;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {}
+
+.topo {
+
+    width: 1366px;
+    height: 417px;
+    background: url(../Imagens/image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: blur(2px);
+
+}
+
+#top {
+    width: 1366px;
+    height: 417px;
+    background: linear-gradient(180deg, rgba(28, 52, 82, 0.71) 23.44%, rgba(28, 52, 82, 0.4402) 100%);
+}
